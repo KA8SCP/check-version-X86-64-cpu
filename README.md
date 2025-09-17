@@ -1,2 +1,5 @@
 # check-version-X86-64-cpu
-check the version level for 1, 2 3 or 4 of X86_64
+checks the version level for v2, v3 or v4 of X86_64
+
+cd /tmp
+wget http
